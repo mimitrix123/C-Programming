@@ -1,0 +1,17 @@
+# Compiled C programs
+*.exe
+*.out
+*.o
+
+# Runtime data
+employees.dat
+student.dat
+append_data.txt
+
+# IDE files
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
